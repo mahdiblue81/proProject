@@ -260,7 +260,7 @@ body {
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">
-                                    <center> <a href="#">مقالات</a></center>
+                                    <center><a href="{{route('article.ListArticles')}}"> مقالات</a></center>
                                 </h5>
                                 <p class="date-author">
                                     11 March 2020 <span class="author">Mahdi Hajighasemi</span>
